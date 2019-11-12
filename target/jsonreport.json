@@ -1,0 +1,40 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 18,
+        "name": "does payment",
+        "description": "",
+        "id": "test-junit;does-payment",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 793400,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user does payment",
+            "match": {
+              "location": "testcase_login.user_does_payment()"
+            },
+            "keyword": "* "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@payment"
+          }
+        ]
+      }
+    ],
+    "name": "Test junit",
+    "description": "",
+    "id": "test-junit",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Testcase1/junit.feature",
+    "tags": []
+  }
+]

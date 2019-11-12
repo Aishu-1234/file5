@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="8.968167">
+<testcase classname="Test Registration" name="User registration with valid data" time="8.968167">
+<system-out><![CDATA[Given user open application newtours.demoaut.com............................passed
+When user clicks on registration............................................passed
+Then user validates registration page.......................................passed
+When user enter firstname...................................................passed
+And user enter lastname.....................................................passed
+And user enter password.....................................................passed
+And user enter confirm password.............................................passed
+And user click on register button...........................................passed
+Then user validates registration page successed.............................passed
+]]></system-out>
+</testcase>
+</testsuite>
